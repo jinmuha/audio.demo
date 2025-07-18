@@ -1,0 +1,6 @@
+numpy
+torch
+soundfile
+librosa
+moviepy
+opencv-python
